@@ -7,6 +7,7 @@
 #include <vector>
 #include <functional>
 #include <memory>
+#include <stdexcept>
 
 /**
  * Model C API header-only wrapper class
